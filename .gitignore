@@ -1,0 +1,65 @@
+# IntelliJ project files
+*.iml
+
+# IntelliJ Directory-based project format
+.idea/
+
+# IntelliJ File-based project format
+*.ipr
+*.iws
+
+# IntelliJ output
+/out/
+*/target/classes/*
+*/target/generated-sources/*
+*/target/maven-archiver/*
+*/target/surefire/*
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Java Classes
+*.class
+
+# Java Package Files
+*.jar
+*.war
+*.ear
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# VisualStudio User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VisualStudio User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# VisualStudio Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
