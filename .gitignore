@@ -1,3 +1,12 @@
+# NetBeans private project information
+*/nbproject/private/
+*/build/
+*/nbbuild/
+*/dist/
+*/nbdist/
+*/nbactions.xml
+*/.nb-gradle/
+
 # IntelliJ project files
 *.iml
 
@@ -63,3 +72,4 @@ bld/
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
+/Denver/nbproject/private/
